@@ -1,0 +1,16 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "2.0.14"
+  }
+}
